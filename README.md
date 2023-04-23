@@ -1,4 +1,4 @@
-# message_en.properties
+# messages_en.properties
 Any Essentials Version server messages for RO.
 Just download and drop in Essentials folder.
 -------------------------------------------------
